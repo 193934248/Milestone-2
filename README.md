@@ -9,3 +9,7 @@ I am Tang Chun Fung and I am Year 2 **CE** student in **CUHK**. I am enrolled **
 - [x] Improve GPA
 - [ ] Do more exercises
 - [ ] Sleep regularly
+
+## I really don't know what to put in the table
+This is a Column | This is also a Column
+------- | --------
